@@ -13,6 +13,7 @@ https://en.wikipedia.org/wiki/Kilowatt_hour
 https://reactjs.org/docs/react-component.html
 https://momentjs.com/docs/#/parsing/object/
 https://www.npmjs.com/package/react-chartjs-2
+https://www.npmjs.com/package/isomorphic-fetch
 https://github.com/xchau/react-from-scratch-webpackdevserver/blob/master/package.json
 https://github.com/ReactTraining/react-router/issues/4269
 https://stackoverflow.com/questions/34720530/chart-js-v2-add-prefix-or-suffix-to-tooltip-label
