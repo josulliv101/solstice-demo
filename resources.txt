@@ -23,3 +23,8 @@ https://stackoverflow.com/questions/30610523/reverse-array-in-javascript-without
 https://stackoverflow.com/questions/39807666/different-ports-for-frontend-and-backend-how-to-make-a-request
 https://stackoverflow.com/questions/33527653/babel-6-regeneratorruntime-is-not-defined
 https://stackoverflow.com/questions/46443652/react-16-warning-expected-server-html-to-contain-a-matching-div-in-body
+
+// My Own Codebases
+https://github.com/josulliv101/pigpile-fire
+https://github.com/josulliv101/connect-async-work
+https://github.com/josulliv101/connect-async-work-demo
