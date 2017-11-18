@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <title>Solstice Demo</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="user-scalable=0, initial-scale=1, minimum-scale=1, width=device-width, height=device-height" />
+    <link rel="icon" href="/favicon.ico" />
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:100,300,400,500" />
+    <script>
+      // Work-around to fix issue with '@josulliv101/connect-async-work' package unitl fix is in place.
+      // Usually the server inserts the needed state here to be included into the redux store.
+	    window.__initialState__ = {
+        asyncwork: {
+          loadState: {
+            utilData: [],
+          },
+          work: {
+            utilData: []           
+          }
+        }
+      }
+    </script>
+    <script defer src="bundle.js"></script>
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>

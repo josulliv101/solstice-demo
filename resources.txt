@@ -1,0 +1,25 @@
+// resources
+
+https://github.com/xchau/react-from-scratch-webpackdevserver/blob/master/package.json
+https://esdiscuss.org/topic/re-export-default
+https://devcenter.heroku.com/articles/creating-apps
+https://github.com/ReactTraining/react-router/issues/4269
+https://codepen.io/SitePoint/pen/mJRrKw
+https://material.io/icons/
+https://solstice.us/
+https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4
+https://en.wikipedia.org/wiki/Kilowatt_hour
+http://www.chartjs.org/docs/latest/charts/doughnut.html
+https://reactjs.org/docs/react-component.html
+https://material-ui-next.com/demos/tables/
+https://momentjs.com/docs/#/parsing/object/
+https://www.npmjs.com/package/react-chartjs-2
+http://www.chartjs.org/docs/latest/axes/labelling.html
+https://stackoverflow.com/questions/34720530/chart-js-v2-add-prefix-or-suffix-to-tooltip-label
+https://stackoverflow.com/questions/28013045/sort-array-by-date-gives-unexpected-results
+https://stackoverflow.com/questions/41216308/chartjs-how-to-set-fixed-y-axis-max-and-min
+https://stackoverflow.com/questions/37249439/chartjs-v2-0-stacked-bar-chart
+https://stackoverflow.com/questions/30610523/reverse-array-in-javascript-without-mutating-original-array
+https://stackoverflow.com/questions/39807666/different-ports-for-frontend-and-backend-how-to-make-a-request
+https://stackoverflow.com/questions/33527653/babel-6-regeneratorruntime-is-not-defined
+https://stackoverflow.com/questions/46443652/react-16-warning-expected-server-html-to-contain-a-matching-div-in-body
