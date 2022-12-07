@@ -16,7 +16,7 @@
     "@josulliv101/connect-async-work": "^1.4.17",
     "chart.js": "^2.7.1",
     "classnames": "^2.2.5",
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "isomorphic-fetch": "^2.2.1",
     "material-ui": "beta",
     "material-ui-icons": "^1.0.0-beta.17",
